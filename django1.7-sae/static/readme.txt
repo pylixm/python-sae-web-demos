@@ -1,0 +1,1 @@
+本地使用 python manage.py collectstatic 收集后上传到svn
