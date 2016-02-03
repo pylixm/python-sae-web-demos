@@ -1,5 +1,6 @@
-#toolsblog
+#python-sae-web-demos
 
-在 sae 上部署django1.8的实例代码。
+在sae上部署python web框架的代码实例
 
-demo演示地址：http://toolsblog.sinaapp.com/
+
+
